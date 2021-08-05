@@ -2,6 +2,8 @@
 
 ![](./demo.png)
 
+[Check this online.](http://cjting.me/audio-vis-demo/)
+
 Have you ever wonder how these bars are generated? Why they seem to "dance" with the music?
 
 For me, this seems pure magic. And actually, the science behind this, the Fourier transform, is even cooler.
